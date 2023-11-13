@@ -1,0 +1,1 @@
+ // remainder= ((larger-smaller)%(2*c));

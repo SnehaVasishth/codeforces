@@ -1,0 +1,1 @@
+cout<<"isnide j "<<j<<"\n";
